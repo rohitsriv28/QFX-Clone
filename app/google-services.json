@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "604999474255",
+    "firebase_url": "https://random-d1bd1-default-rtdb.firebaseio.com",
+    "project_id": "random-d1bd1",
+    "storage_bucket": "random-d1bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604999474255:android:b53fbb73e3ea4974c59e3a",
+        "android_client_info": {
+          "package_name": "com.example.qfxclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qcA9BWwMy4ZUwUdir4Xzdm1Q9MGKfGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
